@@ -1,0 +1,38 @@
+.First{
+    text-align: center;
+    margin-top: 35px;
+    background:hotpink;
+    
+}
+table{
+    margin: auto;
+}
+input{
+    border-radius: 22px;
+    font-size: 35px;
+    border:5px solid #244624;
+
+    
+}
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background:hotpink;
+    width:102px;
+    height: 70px;
+  
+   
+   
+}
+
+.Calculator{
+    border: 5px solid #13695d;
+    background-color:#ff99f9;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+}
+h1{
+    font-solid: 20px;
+  
+}
